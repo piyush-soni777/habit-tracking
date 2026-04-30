@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-
+ 
 USERNAME = "YOUR USERNAME"
 TOKEN = "YOUR SELF GENERATED TOKEN"
 GRAPH_ID = "YOUR GRAPH ID"
