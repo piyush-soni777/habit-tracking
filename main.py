@@ -54,7 +54,7 @@ update_endpoint = f"{pixela_endpoint}/{USERNAME}/graphs/{GRAPH_ID}/{today.strfti
 new_pixel_data = {
 "quantity": "5"
 }
-
+# develope by piyushSoni
 # PUT
 # response = requests.put(url=update_endpoint, json=new_pixel_data, headers=headers)
 # print(response.text)
