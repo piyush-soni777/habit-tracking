@@ -14,7 +14,7 @@ user_params = {
     "agreeTermsOfService": "yes",
     "notMinor": "yes",
 }
- 
+
 # POST
 # response = requests.post(url=pixela_endpoint, json=user_params)
 # print(response.text)
